@@ -2,7 +2,7 @@ import React from 'react'
 import {Route} from 'react-router-dom'
 import App from '../App'
 import Description from './Description'
-import Trailer from './Trailer'
+//import Trailer from './Trailer'
 
 function Router() {
 
