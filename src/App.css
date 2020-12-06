@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: white;
+  justify-content: justify;
+  width: auto;
+  height: auto;
+  display: block;
+}
+
+#filmlist {
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: absolute;
+  background-color: white;
+  vertical-align: middle;
+  
+}
+
